@@ -1,0 +1,15 @@
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\obj\Debug\net8.0\DataTrans.Application.csproj.AssemblyReference.cache
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\obj\Debug\net8.0\DataTrans.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\obj\Debug\net8.0\DataTrans.Application.AssemblyInfoInputs.cache
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\obj\Debug\net8.0\DataTrans.Application.AssemblyInfo.cs
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\obj\Debug\net8.0\DataTrans.Application.csproj.CoreCompileInputs.cache
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\bin\Debug\net8.0\DataTrans.Application.deps.json
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\bin\Debug\net8.0\DataTrans.Application.dll
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\bin\Debug\net8.0\DataTrans.Application.pdb
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\bin\Debug\net8.0\DataTrans.Domain.dll
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\bin\Debug\net8.0\DataTrans.Domain.pdb
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\obj\Debug\net8.0\DataTrans.Application.csproj.CopyComplete
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\obj\Debug\net8.0\DataTrans.Application.dll
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\obj\Debug\net8.0\refint\DataTrans.Application.dll
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\obj\Debug\net8.0\DataTrans.Application.pdb
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Application\obj\Debug\net8.0\ref\DataTrans.Application.dll

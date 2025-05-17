@@ -1,0 +1,250 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Infustracture\\DataTrans.Infustracture.csproj": {}
+  },
+  "projects": {
+    "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Application\\DataTrans.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Application\\DataTrans.Application.csproj",
+        "projectName": "DataTrans.Application",
+        "projectPath": "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Application\\DataTrans.Application.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Lenovo\\.nuget\\packages": {},
+          "D:\\visualstudiocodes\\Csharp\\OnMapperSolution\\OnMapper\\bin\\Debug": {},
+          "D:\\visualstudiocodes\\Csharp\\OnTubeSolution\\ontubePackage\\bin\\Debug": {},
+          "E:\\googledownloadsinternet\\gateway_packages-main\\gateway_packages-main\\GatewayPackages\\NuGetPakage\\Country": {},
+          "E:\\packages\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Domain\\DataTrans.Domain.csproj": {
+                "projectPath": "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Domain\\DataTrans.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "OnMapper": {
+              "target": "Package",
+              "version": "[1.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Domain\\DataTrans.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Domain\\DataTrans.Domain.csproj",
+        "projectName": "DataTrans.Domain",
+        "projectPath": "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Domain\\DataTrans.Domain.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Lenovo\\.nuget\\packages": {},
+          "D:\\visualstudiocodes\\Csharp\\OnMapperSolution\\OnMapper\\bin\\Debug": {},
+          "D:\\visualstudiocodes\\Csharp\\OnTubeSolution\\ontubePackage\\bin\\Debug": {},
+          "E:\\googledownloadsinternet\\gateway_packages-main\\gateway_packages-main\\GatewayPackages\\NuGetPakage\\Country": {},
+          "E:\\packages\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Infustracture\\DataTrans.Infustracture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Infustracture\\DataTrans.Infustracture.csproj",
+        "projectName": "DataTrans.Infustracture",
+        "projectPath": "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Infustracture\\DataTrans.Infustracture.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Infustracture\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Lenovo\\.nuget\\packages": {},
+          "D:\\visualstudiocodes\\Csharp\\OnMapperSolution\\OnMapper\\bin\\Debug": {},
+          "D:\\visualstudiocodes\\Csharp\\OnTubeSolution\\ontubePackage\\bin\\Debug": {},
+          "E:\\googledownloadsinternet\\gateway_packages-main\\gateway_packages-main\\GatewayPackages\\NuGetPakage\\Country": {},
+          "E:\\packages\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Application\\DataTrans.Application.csproj": {
+                "projectPath": "D:\\visualstudiocodes\\Csharp\\DataTrans\\DataTrans.Application\\DataTrans.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

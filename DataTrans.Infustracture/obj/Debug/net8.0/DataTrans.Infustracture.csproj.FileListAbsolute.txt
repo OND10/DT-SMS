@@ -1,0 +1,17 @@
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\bin\Debug\net8.0\DataTrans.Infustracture.deps.json
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\bin\Debug\net8.0\DataTrans.Infustracture.dll
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\bin\Debug\net8.0\DataTrans.Infustracture.pdb
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\bin\Debug\net8.0\DataTrans.Application.dll
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\bin\Debug\net8.0\DataTrans.Domain.dll
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\bin\Debug\net8.0\DataTrans.Application.pdb
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\bin\Debug\net8.0\DataTrans.Domain.pdb
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\obj\Debug\net8.0\DataTrans.Infustracture.csproj.AssemblyReference.cache
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\obj\Debug\net8.0\DataTrans.Infustracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\obj\Debug\net8.0\DataTrans.Infustracture.AssemblyInfoInputs.cache
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\obj\Debug\net8.0\DataTrans.Infustracture.AssemblyInfo.cs
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\obj\Debug\net8.0\DataTrans.Infustracture.csproj.CoreCompileInputs.cache
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\obj\Debug\net8.0\DataTrans.Infustracture.csproj.CopyComplete
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\obj\Debug\net8.0\DataTrans.Infustracture.dll
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\obj\Debug\net8.0\refint\DataTrans.Infustracture.dll
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\obj\Debug\net8.0\DataTrans.Infustracture.pdb
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Infustracture\obj\Debug\net8.0\ref\DataTrans.Infustracture.dll

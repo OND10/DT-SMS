@@ -1,0 +1,14 @@
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\bin\Debug\net8.0\DataTrans.Domain.deps.json
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\bin\Debug\net8.0\DataTrans.Domain.dll
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\bin\Debug\net8.0\DataTrans.Domain.pdb
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\obj\Debug\net8.0\DataTrans.Domain.csproj.AssemblyReference.cache
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\obj\Debug\net8.0\DataTrans.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\obj\Debug\net8.0\DataTrans.Domain.AssemblyInfoInputs.cache
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\obj\Debug\net8.0\DataTrans.Domain.AssemblyInfo.cs
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\obj\Debug\net8.0\DataTrans.Domain.csproj.CoreCompileInputs.cache
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\obj\Debug\net8.0\DataTrans.Domain.dll
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\obj\Debug\net8.0\refint\DataTrans.Domain.dll
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\obj\Debug\net8.0\DataTrans.Domain.pdb
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\obj\Debug\net8.0\ref\DataTrans.Domain.dll
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\bin\Debug\net8.0\DataTrans.Domain.runtimeconfig.json
+D:\visualstudiocodes\Csharp\DataTrans\DataTrans.Domain\obj\Debug\net8.0\DataTrans.Domain.genruntimeconfig.cache
